@@ -34,3 +34,10 @@ pip install speechrecognition pyttsx3 requests feedparser pyaudio
 
 # configuation
 Replace your_openweathermap_api_key in the script with your actual OpenWeatherMap API key.
+
+# video demonstration
+
+
+https://github.com/user-attachments/assets/b4c05584-1f7c-467a-a15e-de2132f150e2
+
+
